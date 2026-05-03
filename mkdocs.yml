@@ -24,4 +24,4 @@ theme:
         name: Switch to system preference
 nav:
   - Home: index.md
-  - Page Two: page2.md
+  - Page Two: courses.md
