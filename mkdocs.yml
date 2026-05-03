@@ -21,5 +21,5 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 nav:
-  - Home: courses.md
-  - Page Two: landing.md
+  - Home: index.md
+  - Page Two: page2.md
