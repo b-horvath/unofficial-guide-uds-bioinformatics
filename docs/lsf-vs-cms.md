@@ -1,4 +1,4 @@
-- Use LSF to ensure you are legally registered for the exam so your $ECTS$ (European Credit Transfer System) points actually count.
+- Use LSF to ensure you are legally registered for the exam so your ECTS (European Credit Transfer System) points actually count.
 - Use CMS/MS Teams to hear about announcements, complete assignments, learn about tutorials and interact with the Teaching Assistants (TAs).
 
 | Feature | **LSF / HIS / POS** (Administrative) | **CMS / Moodle / LMS** (Operational) |

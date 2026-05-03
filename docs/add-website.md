@@ -1,4 +1,5 @@
 In order to add to the website:
+
 - Fork this project
 - Add `.md` file you would like to add into the `docs` folder
   - Additionally, you must follow the specific syntax as follows:
