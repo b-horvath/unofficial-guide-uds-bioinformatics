@@ -1,6 +1,7 @@
 site_name: unofficial-guide-uds-bioinformatics
 site_url: https://b-horvath.github.io/unofficial-guide-uds-bioinformatics/
 theme:
+  name: material
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
