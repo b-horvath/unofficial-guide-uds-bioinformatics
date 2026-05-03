@@ -1,5 +1,5 @@
-site_name: Project Name
-site_url: https://username.github.io/repo-name/
+site_name: unofficial-guide-uds-bioinformatics
+site_url: http://uds-bioinfo-unofficial.io/
 theme:
   name: material # If you installed mkdocs-material
 
