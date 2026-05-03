@@ -24,4 +24,11 @@ theme:
         name: Switch to system preference
 nav:
   - Home: index.md
-  - Page Two: courses.md
+  - Etiquette:
+      # Learned helplessness?
+      - When to Ask for Help: ask-for-help.md
+      - Emailing Professors: email-prof.md
+  - Courses:
+      - Choosing Courses: courses.md
+      - Study Regulations: regulations.md
+  - Adding to the Website: add-website.md
