@@ -1,7 +1,7 @@
 Add the following in your ssh:
 
-Mac/Linux: nano ~/.ssh/config
-Windows: notepad $HOME\.ssh\config
+- Mac/Linux: nano ~/.ssh/config
+- Windows: notepad $HOME\.ssh\config
 
 ```
 Host bioXX.studcs.uni-saarland.de
