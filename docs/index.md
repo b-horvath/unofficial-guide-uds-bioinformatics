@@ -4,3 +4,6 @@ Disclaimer: we are not affiliated with UdS and anything written here is for ente
 
 
 The goal for this website is to provide resources for administrative related items in the bioinformatics department at UdS. No code or sensitive material will be shared here. Possibly study strategies and general advice for courses.
+
+
+Created with ❤️ by Ben Horvath; consulted by friends
