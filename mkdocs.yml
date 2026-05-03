@@ -31,4 +31,7 @@ nav:
   - Courses:
       - Choosing Courses: courses.md
       - Study Regulations: regulations.md
+      - LSF vs CMS: lsf-vs-cms.md
+  - Technical:
+      - Logging into SSH: ssh.md
   - Adding to the Website: add-website.md
