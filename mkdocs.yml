@@ -1,25 +1,26 @@
 site_name: unofficial-guide-uds-bioinformatics
-site_url: http://uds-bioinfo-unofficial.io/
+site_url: https://b-horvath.github.io/unofficial-guide-uds-bioinformatics/
 theme:
-  name: material
   palette:
-    # Palette for Light Mode
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
-    # Palette for Dark Mode
+    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to system preference
 nav:
   - Home: index.md
   - Page Two: page2.md
