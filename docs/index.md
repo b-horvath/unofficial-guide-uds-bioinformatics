@@ -7,5 +7,7 @@ The goal for this website is to provide resources for administrative related ite
 
 
 Created with ❤️ by Ben Horvath; consulted by colleagues (Dmitry Tsybulkin and Fadillah Hasanah).
+
 Made by students, for students.
+
 *please mind that this is a rough draft, major changes are still to be made.
