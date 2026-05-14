@@ -25,13 +25,15 @@ theme:
 nav:
   - Home: index.md
   - Etiquette:
-      # Learned helplessness?
-      - When to Ask for Help: ask-for-help.md
-      - Emailing Professors: email-prof.md
+    - When to Ask for Help: ask-for-help.md
+    - Emailing Professors: email-prof.md
   - Courses:
-      - Choosing Courses: courses.md
-      - Study Regulations: regulations.md
-      - LSF vs CMS: lsf-vs-cms.md
+    - Choosing Courses: courses.md
+    - Study Regulations: regulations.md
+    - LSF vs CMS: lsf-vs-cms.md
+  - Administrative:
+    - Translated admin documents: translated-documents.md
   - Technical:
-      - Logging into SSH: ssh.md
+    - Logging into SSH: ssh.md
   - Adding to the Website: add-website.md
+    - Credits: credits.md
