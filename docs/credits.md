@@ -2,14 +2,14 @@
 
 This project is a collaborative effort by the UdS students Bioinformatics community. Our goal is to ship high-quality, student-led documentation to help everyone navigate the program more effectively.
 
-Below is the official leaderboard of contributors. These credits serve as verification for academic and professional portfolios.
+Below is the official contributions of our volunteers. These  serve as verification for professional portfolios.
 
 ---
 
 ## Project Founder & Maintainer
-*   **Ben Horvath** 
-    *   *Role:* Lead Developer & Repository Owner.
-    *   *Contributions:* Initial site architecture (MkDocs), aesthetic design, automation via GitHub Actions, and final editorial review of all content.
+**Ben Horvath** 
+*   *Role:* Lead Developer & Repository Owner.
+*   *Contributions:* Initial site architecture (MkDocs), aesthetic design, automation via GitHub Actions, and final editorial review of all content.
 
 ---
 
@@ -31,7 +31,7 @@ Below is the official leaderboard of contributors. These credits serve as verifi
 
 ---
 
-## 🤝 How to get listed
+##  How to get listed 🤝
 1.  **Reserve a Topic:** Check the pinned Google Doc in our Slack channel to claim a section. (https://docs.google.com/document/d/1EK7aFrO-XtS7AoqucHEm8m9LSBD49zq36NQMc7X9p04/edit?usp=sharing)
 2.  **Submit a PR:** Contribute high-quality Markdown content to the repository.
 3.  **Get Approved:** Once your Pull Request is merged by the maintainer, your name and specific contributions will be added to this page.
