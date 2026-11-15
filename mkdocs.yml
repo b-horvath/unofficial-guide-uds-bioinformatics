@@ -24,7 +24,6 @@ theme:
         name: Switch to system preference
 nav:
   - Home: index.md
-  - Exam Evaluation: exam-evaluation.md
   - Etiquette:
     - When to Ask for Help: ask-for-help.md
     - Emailing Professors: email-prof.md
@@ -32,6 +31,7 @@ nav:
     - Choosing Courses: courses.md
     - Study Regulations: regulations.md
     - LSF vs CMS: lsf-vs-cms.md
+    - Exam Evaluation: exam-evaluation.md
   - Administrative:
     - Translated admin documents: translated-documents.md
   - Technical:
